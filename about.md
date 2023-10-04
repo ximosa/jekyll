@@ -39,9 +39,6 @@ Diseño que Cautiva
 
 Uno de los aspectos más emocionantes del diseño web para mí es la capacidad de crear experiencias visuales que cautivan a los usuarios. Me encanta jugar con colores, tipografías y elementos gráficos para diseñar sitios web que no solo sean atractivos, sino que también transmitan el mensaje y la identidad de una marca.
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
 
 ## Features
 
