@@ -2,14 +2,14 @@
 ## => English
 ########################
 en: &EN
-  SUBSCRIBE               : "Subscribe"
-  READMORE                : "Read more"
-  SEARCH                  : "Search"
-  CANCEL                  : "Cancel"
+  SUBSCRIBE               : "Subscribir"
+  READMORE                : "Ver más.."
+  SEARCH                  : "Buscar"
+  CANCEL                  : "Cancelar"
   VIEWS                   : "views"
   LAST_UPDATED            : "Last updated"
-  PREVIOUS                : "PREVIOUS"
-  NEXT                    : "NEXT"
+  PREVIOUS                : "ANTERIOR"
+  NEXT                    : "SIGUIENTE"
   ARTICLE_DATE_FORMAT     : "%b %d, %Y"
   ARTICLE_LIST_DATE_FORMAT: "%b %d"
   STATISTICS              : "[POST_COUNT] post articles, [PAGE_COUNT] pages."
