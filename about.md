@@ -25,7 +25,6 @@ titles:
   # @end locale config
 key: page-about
 ---
-YAML.load(erb.result, aliases: true)
 
 
 Explorando el Mundo Creativo del Diseño y Desarrollo Web
