@@ -12,8 +12,6 @@ ae# Welcome to Jekyll!
 #    `--'   `----''--'   '--' `--'
 
 
-YAML.load(erb.result, aliases: true)
-
 ## => Site Settings
 ##############################
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
