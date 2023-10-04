@@ -12,7 +12,7 @@ ae# Welcome to Jekyll!
 #    `--'   `----''--'   '--' `--'
 
 
-
+YAML.load(erb.result, aliases: true)
 
 ## => Site Settings
 ##############################
